@@ -5,3 +5,4 @@ r = ""
 for i in range(x):
     r += random.choice(y)
 print(r)    
+#govon ot crytoi chelovek
